@@ -132,32 +132,32 @@
     }
 
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    background-image: url('../images/hero_images/room-hero-mob-1x.jpg');
+    background-image: url('../images/hero_images/hotel-iphone@1x.jpg');
 
     @media screen and (min-device-pixel-ratio: 2),
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
-        background-image: url('../images/hero_images/room-hero-mob-2x.jpg');
+        background-image: url('../images/hero_images/hotel-iphone@2x.jpg');
     }
 
     @media screen and (min-width: 1024px) {
-        background-image: url('../images/hero_images/room-hero-tab-1x.jpg');
+        background-image: url('../images/hero_images/hotel-ipad@1x.jpg');
     }
 
     @media screen and (min-width: 1024px) and (min-device-pixel-ratio: 2),
     (min-width: 1024px) and (min-resolution: 192dpi),
     (min-width: 1024px) and (min-resolution: 2dppx) {
-        background-image: url('../images/hero_images/room-hero-tab-2x.jpg');
+        background-image: url('../images/hero_images/hotel-ipad@2x.jpg');
     }
 
     @media screen and (min-width: 1280px) {
-        background-image: url('../images/hero_images/room-hero-desk-1x.jpg');
+        background-image: url('../images/hero_images/hotel@1x.jpg');
     }
 
     @media screen and (min-width: 1280px) and (min-device-pixel-ratio: 2),
     (min-width: 1280px) and (min-resolution: 192dpi),
     (min-width: 1280px) and (min-resolution: 2dppx) {
-        background-image: url('../images/hero_images/room-hero-desk-2x.jpg');
+        background-image: url('../images/hero_images/hotel@2x.jpg');
     }
 }
 
